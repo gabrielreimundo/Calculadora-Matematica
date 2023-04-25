@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Calculadora-Matematica/static/css/main.72a148f8.css",
+    "main.js": "/Calculadora-Matematica/static/js/main.b156cf38.js",
+    "static/js/787.c1112931.chunk.js": "/Calculadora-Matematica/static/js/787.c1112931.chunk.js",
+    "static/media/math.jpg": "/Calculadora-Matematica/static/media/math.78c09c0a1605d86ea45b.jpg",
+    "index.html": "/Calculadora-Matematica/index.html",
+    "main.72a148f8.css.map": "/Calculadora-Matematica/static/css/main.72a148f8.css.map",
+    "main.b156cf38.js.map": "/Calculadora-Matematica/static/js/main.b156cf38.js.map",
+    "787.c1112931.chunk.js.map": "/Calculadora-Matematica/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72a148f8.css",
+    "static/js/main.b156cf38.js"
+  ]
+}
